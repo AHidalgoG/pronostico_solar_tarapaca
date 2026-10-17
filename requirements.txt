@@ -1,0 +1,15 @@
+# Dependencias directas de los experimentos de pronóstico solar.
+# Versiones pendientes de fijar tras verificar los experimentos en el entorno local.
+# Este archivo sirve tanto para notebooks (.ipynb) como para scripts (.py).
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+joblib
+
+# Kernel Python para ejecutar los notebooks en VS Code/Jupyter.
+ipykernel
