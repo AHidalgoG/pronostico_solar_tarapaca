@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
+
+# KNIME
+.metadata/
+
+# Credenciales
+.env
+
+# KNIME
+.metadata/
+Example Workflows/
