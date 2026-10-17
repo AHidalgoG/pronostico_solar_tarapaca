@@ -110,5 +110,3 @@ Los resultados provienen de datos históricos modelados, no de una evaluación o
 **Artículo:** *Pronóstico multisitio de radiación solar global horizontal en la Región de Tarapacá mediante modelos estadísticos y de aprendizaje profundo*, de **Alonso Hidalgo Gutiérrez, Francisco Meza y Manuel Alejandro Goyo** (INFONOR 2026).
 
 **Fuente de datos:** [Explorador Solar — Ministerio de Energía de Chile](https://solar.minenergia.cl/).
-
-Antes de hacer público el repositorio, verificar las **condiciones de redistribución de los CSV** y definir una **licencia para el código**. No se presupone que el carácter público del portal autorice la redistribución de todos sus archivos.
